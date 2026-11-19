@@ -54,3 +54,4 @@ After moving both VMs to VMnet19, I restored dashboard access by starting the fa
 ## Evidence
 
 The screenshots follow the investigation order: agent status (01), software installation (02), failed and successful sign-ins (03–04), Administrators group changes (05), Sysmon process creation (06), and custom rule validation (07).
+![Wazuh custom rule 100101 and built-in control rule 92027](evidence/07-custom-rule-validation.png)
